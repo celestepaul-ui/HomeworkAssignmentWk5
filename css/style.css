@@ -1,5 +1,5 @@
 body {
-  background-color: pink;
+  background-color: rgb(239, 239, 228);
 }
 
 h1 {
@@ -31,14 +31,22 @@ p {
 }
 
 #sectiontitle1 {
-  color: rgb(7, 138, 138)
+  color: rgb(7, 138, 138);
+
 }
 
 #sectiontitle2 {
-  color: rgb(7, 138, 138)
+  color: rgb(7, 138, 138);
+
 }
 
 .flex-container {
   display: flex;
   justify-content: space-evenly
+}
+
+@media (max-width: 600px) {
+  main {
+    font-size: 8px;
+  }
 }
