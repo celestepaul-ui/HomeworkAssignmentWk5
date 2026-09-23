@@ -1,0 +1,44 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Lucida Sans'
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Lucida Sans'
+}
+
+p {
+  text-align: left;
+}
+
+.Subtitle {
+  text-align: center
+}
+
+.footerlink {
+  text-align: right
+}
+
+#maintitle {
+  color: rgb(7, 138, 138)
+}
+
+#sectiontitle1 {
+  color: rgb(7, 138, 138)
+}
+
+#sectiontitle2 {
+  color: rgb(7, 138, 138)
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-evenly
+}
