@@ -37,7 +37,6 @@ p {
 
 #sectiontitle2 {
   color: rgb(7, 138, 138);
-
 }
 
 .flex-container {
@@ -47,6 +46,6 @@ p {
 
 @media (max-width: 600px) {
   main {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
